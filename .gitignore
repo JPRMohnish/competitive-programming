@@ -16,3 +16,10 @@ a.out
 # Misc
 *.org
 *.txt
+
+
+#scripts
+_*
+a.out
+input.txt
+output.txt
